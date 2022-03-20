@@ -1,0 +1,7 @@
+if (!CheckL((numberI1 * sizeY[levle]) + numberJ1, (numberI2 * sizeY[levle])
+                    + numberJ2, button[numberI1][numberJ1].value, button[numberI2][numberJ2].value)) {
+                close();
+            } else {
+                match();
+
+            }
